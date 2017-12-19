@@ -1,0 +1,6 @@
+/* Archivo de configuracion de Babel */
+{
+  "presets":[
+    "react","es2015"
+  ]
+}
